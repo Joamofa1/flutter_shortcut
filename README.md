@@ -32,7 +32,7 @@ Pull requests are welcome. For all changes, please open an issue first to discus
 
 
 ## License
-MIT License
+MIT Licenses
 
 ```
 Copyright (c) 2021 abdelrahmanelmarakby
