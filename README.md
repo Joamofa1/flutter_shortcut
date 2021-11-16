@@ -31,8 +31,8 @@ easy isn't it ??
 Pull requests are welcome. For all changes, please open an issue first to discuss what you would like to change.
 
 
-## License
-MIT Licenses
+#License
+MIT License
 
 ```
 Copyright (c) 2021 abdelrahmanelmarakby
